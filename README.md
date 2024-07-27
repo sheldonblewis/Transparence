@@ -4,6 +4,6 @@
 
 On-chain employee and business verification to build a future free from deception culture.
 
-Pitch Deck: https://1drv.ms/p/s!ArggcTx34YskqEVCPuiI71VFTvX8?e=wHbQtY
-
 NEAR, Avalanche, React, Node, Firebase, Neurelo, MySQL
+
+Pitch Deck: https://1drv.ms/p/s!ArggcTx34YskqEVCPuiI71VFTvX8?e=wHbQtY
